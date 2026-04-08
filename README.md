@@ -13,7 +13,3 @@ This project presents an interactive dashboard for analyzing product-level profi
 
 ## Dataset
 Nassau Candy Factory dataset
-
-## Dashboard Preview
-![Dashboard](<img width="1517" height="879" alt="Final Dashboard" src="https://github.com/user-attachments/assets/04ea97fd-fa43-4499-9b73-5a7cf94c8350" />
-)
